@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816461
+  date: 2026-01-07T20:07:41.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:07:41.572+00:00
+createdBy: editor
+enabled: true
+name: step_ladder4.ogg
+path: audio/steps/step_ladder4.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 6182
+storageId: debef3a4-01d5-49d6-afa1-9dc70f77ec33
+worldId: '@shared:n'

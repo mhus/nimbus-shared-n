@@ -1,0 +1,45 @@
+_class: de.mhus.nimbus.world.shared.world.WBlockType
+_id:
+  timestamp: 1767814435
+  date: 2026-01-07T19:33:55.000+00:00
+_schema: 1.0.0
+blockId: g
+createdAt: 2026-01-07T19:33:55.727+00:00
+enabled: true
+publicData:
+  _id: n:g
+  description: ""
+  initialStatus: 0
+  modifiers:
+    "0":
+      audio:
+        - enabled: true
+          loop: false
+          path: audio/steps/step_grass1.ogg
+          type: steps
+          volume: 1.0
+        - enabled: true
+          loop: false
+          path: audio/steps/step_grass2.ogg
+          type: steps
+          volume: 1.0
+        - enabled: true
+          loop: false
+          path: audio/steps/step_grass3.ogg
+          type: steps
+          volume: 1.0
+      physics:
+        autoClimbable: true
+        solid: true
+      visibility:
+        rotation:
+          x: 0.0
+          "y": 0.0
+        shape: 1
+        textures:
+          "0":
+            path: textures/block/ground/grass_top.png
+  title: Grass
+  type: GROUND
+updatedAt: 2026-01-07T20:13:32.488+00:00
+worldId: '@shared:n'

@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816377
+  date: 2026-01-07T20:06:17.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:06:17.921+00:00
+createdBy: editor
+enabled: true
+name: step_gravel3.ogg
+path: audio/steps/step_gravel3.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 8805
+storageId: 6a85a8b4-34b4-46be-93fc-439ac169375d
+worldId: '@shared:n'

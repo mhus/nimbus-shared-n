@@ -1,0 +1,44 @@
+_class: de.mhus.nimbus.world.shared.world.WBlockType
+_id:
+  timestamp: 1767821395
+  date: 2026-01-07T21:29:55.000+00:00
+_schema: 1.0.0
+blockId: sa
+createdAt: 2026-01-07T21:29:55.129+00:00
+enabled: true
+publicData:
+  _id: n:sa
+  description: ""
+  initialStatus: 0
+  modifiers:
+    "0":
+      audio:
+        - enabled: true
+          loop: false
+          path: audio/steps/step_sand1.ogg
+          type: steps
+          volume: 1.0
+        - enabled: true
+          loop: false
+          path: audio/steps/step_sand2.ogg
+          type: steps
+          volume: 1.0
+        - enabled: true
+          loop: false
+          path: audio/steps/step_sand3.ogg
+          type: steps
+          volume: 1.0
+      physics:
+        autoClimbable: true
+        solid: true
+      visibility:
+        rotation:
+          x: 0.0
+          "y": 0.0
+        shape: 1
+        textures:
+          "0": textures/block/ground/sand3.png
+  title: Sand
+  type: GROUND
+updatedAt: 2026-01-07T21:29:55.129+00:00
+worldId: '@shared:n'

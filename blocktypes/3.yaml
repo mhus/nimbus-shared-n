@@ -1,0 +1,24 @@
+_class: de.mhus.nimbus.world.shared.world.WBlockType
+_id:
+  timestamp: 1767814348
+  date: 2026-01-07T19:32:28.000+00:00
+_schema: 1.0.0
+blockId: 3
+createdAt: 2026-01-07T19:32:28.227+00:00
+enabled: true
+publicData:
+  _id: n:3
+  description: ""
+  initialStatus: 0
+  modifiers:
+    "0":
+      physics:
+        solid: true
+      visibility:
+        rotation:
+          x: 0.0
+          "y": 0.0
+        shape: 0
+  title: Invisible Solid
+updatedAt: 2026-01-07T19:32:28.227+00:00
+worldId: '@shared:n'

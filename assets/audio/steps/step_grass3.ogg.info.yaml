@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816399
+  date: 2026-01-07T20:06:39.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:06:39.374+00:00
+createdBy: editor
+enabled: true
+name: step_grass3.ogg
+path: audio/steps/step_grass3.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 9464
+storageId: 49d21568-19f7-4529-9677-b7255719801c
+worldId: '@shared:n'

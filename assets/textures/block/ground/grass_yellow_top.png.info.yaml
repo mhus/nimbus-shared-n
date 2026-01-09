@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810630
+  date: 2026-01-07T18:30:30.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:30.631+00:00
+createdBy: editor
+enabled: true
+name: grass_yellow_top.png
+path: textures/block/ground/grass_yellow_top.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#9a792b"
+  description: "The image shows a blurred, pixelated texture in various shades of\
+    \ yellow-brown, resembling the top view of dry grass. It appears to be a low-resolution\
+    \ asset suitable for use as a background or surface texture."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 6019
+storageId: 87b2b618-bbd1-4e32-bc8e-10b2b74239e7
+worldId: '@shared:n'

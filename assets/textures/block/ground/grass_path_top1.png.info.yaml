@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810642
+  date: 2026-01-07T18:30:42.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:42.055+00:00
+createdBy: editor
+enabled: true
+name: grass_path_top1.png
+path: textures/block/ground/grass_path_top1.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#7c6432"
+  description: "The image shows a blurry, top-down texture of a grass path, primarily\
+    \ in shades of brown and tan. It appears as a seamless pattern suitable for tiling\
+    \ in a game or design."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 264
+storageId: ef39dfc3-b7c2-4456-ad89-b4b97e91bd2e
+worldId: '@shared:n'

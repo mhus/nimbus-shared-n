@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810643
+  date: 2026-01-07T18:30:43.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:43.945+00:00
+createdBy: editor
+enabled: true
+name: snow.png
+path: textures/block/ground/snow.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#d9ebf6"
+  description: "The image shows a blurred, light blue and white texture resembling\
+    \ a snowy surface or a cloudy sky. The soft, blended tones create a smooth and\
+    \ diffused visual effect."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 246
+storageId: 0a0488b7-733e-46d3-b609-ace497c789bc
+worldId: '@shared:n'

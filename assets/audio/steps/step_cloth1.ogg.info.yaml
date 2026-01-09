@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816434
+  date: 2026-01-07T20:07:14.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:07:14.541+00:00
+createdBy: editor
+enabled: true
+name: step_cloth1.ogg
+path: audio/steps/step_cloth1.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 10357
+storageId: 6a06a97e-8028-475f-ba7b-68eacc6a859b
+worldId: '@shared:n'

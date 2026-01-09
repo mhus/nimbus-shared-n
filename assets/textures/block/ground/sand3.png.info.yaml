@@ -1,0 +1,24 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810653
+  date: 2026-01-07T18:30:53.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:53.160+00:00
+createdBy: editor
+enabled: true
+name: sand3.png
+path: textures/block/ground/sand3.png
+publicData:
+  category: textures
+  color: "#daa87e"
+  description: "The image shows a blurred texture, likely designed to represent sand.\
+    \ It features light tan and brown hues with a soft, out-of-focus appearance, suggesting\
+    \ a repeating pattern suitable for tiling."
+  extension: .png
+  height: 16
+  mimeType: image/png
+  width: 16
+size: 250
+storageId: 0145c5e9-9427-4d55-958a-39fc961bd034
+worldId: '@shared:n'

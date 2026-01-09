@@ -1,0 +1,24 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810651
+  date: 2026-01-07T18:30:51.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:51.356+00:00
+createdBy: editor
+enabled: true
+name: sandstone_bottom.png
+path: textures/block/ground/sandstone_bottom.png
+publicData:
+  category: textures
+  color: "#ca9b79"
+  description: "The image shows a blurred, mottled texture with varying shades of\
+    \ light brown, suggesting a sandstone or sandy surface. The texture appears somewhat\
+    \ aged or weathered due to the irregular patterns and color variations."
+  extension: .png
+  height: 16
+  mimeType: image/png
+  width: 16
+size: 272
+storageId: bf5426b4-453f-4e3f-a819-69e9e366513e
+worldId: '@shared:n'

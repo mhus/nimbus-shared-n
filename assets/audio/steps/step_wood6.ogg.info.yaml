@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816492
+  date: 2026-01-07T20:08:12.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:08:12.094+00:00
+createdBy: editor
+enabled: true
+name: step_wood6.ogg
+path: audio/steps/step_wood6.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 8104
+storageId: b6eef4f3-f60a-4d17-8ea6-01b5f033892b
+worldId: '@shared:n'

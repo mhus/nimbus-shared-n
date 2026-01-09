@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816352
+  date: 2026-01-07T20:05:52.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:05:52.584+00:00
+createdBy: editor
+enabled: true
+name: step_stone5.ogg
+path: audio/steps/step_stone5.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 8543
+storageId: 0b0687a2-7bdb-472c-bbbb-5a845eb5fb8e
+worldId: '@shared:n'

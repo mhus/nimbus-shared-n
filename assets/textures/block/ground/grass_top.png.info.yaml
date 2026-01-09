@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810633
+  date: 2026-01-07T18:30:33.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:33.705+00:00
+createdBy: editor
+enabled: true
+name: grass_top.png
+path: textures/block/ground/grass_top.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#588537"
+  description: "The image shows a blurred, green texture, likely intended to represent\
+    \ the top of grass. The texture has varying shades of green to create a natural,\
+    \ uneven appearance."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 1982
+storageId: 8aad0518-02b5-4ead-a520-0daa05ad5aac
+worldId: '@shared:n'

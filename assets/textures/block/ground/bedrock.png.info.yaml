@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767821574
+  date: 2026-01-07T21:32:54.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T21:32:54.355+00:00
+createdBy: editor
+enabled: true
+name: bedrock.png
+path: textures/block/ground/bedrock.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#5b504c"
+  description: "The image depicts a blurry, brownish-grey stone texture with irregular\
+    \ shapes and dark patches, suggesting a rough and uneven surface. It appears to\
+    \ be a repeating pattern designed to tile seamlessly."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 275
+storageId: 21e8eca2-8a87-4a16-a55a-1340baa9894b
+worldId: '@shared:n'

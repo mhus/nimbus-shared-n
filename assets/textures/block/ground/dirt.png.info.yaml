@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816929
+  date: 2026-01-07T20:15:29.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:15:29.286+00:00
+createdBy: editor
+enabled: true
+name: dirt.png
+path: textures/block/ground/dirt.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#6c5346"
+  description: "The image shows a blurred, brownish texture reminiscent of dirt or\
+    \ soil. It appears to be a close-up view with varying shades of brown to create\
+    \ depth and texture."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 246
+storageId: 2df5b327-b57d-4000-ba71-3b970e941c5d
+worldId: '@shared:n'

@@ -1,0 +1,29 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810637
+  date: 2026-01-07T18:30:37.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:37.895+00:00
+createdBy: editor
+enabled: true
+name: grass_block_top2.png
+path: textures/block/ground/grass_block_top2.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#8e8372"
+  description: "The image depicts a top-down view of a surface, likely representing\
+    \ the top of a block with a light brown/beige grassy or mossy texture. It appears\
+    \ to be a seamless or tileable texture, suitable for use in 3D modeling or game\
+    \ development."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 255
+storageId: a6142da4-b007-4f73-bd06-0d6cf970bfdf
+worldId: '@shared:n'

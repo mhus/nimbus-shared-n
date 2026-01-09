@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810647
+  date: 2026-01-07T18:30:47.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:47.635+00:00
+createdBy: editor
+enabled: true
+name: cobblestone.png
+path: textures/block/ground/cobblestone.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#756761"
+  description: "The image shows a blurry, repeating texture pattern of brown and grey\
+    \ cobblestones or paving stones. The stones appear roughly hexagonal and are set\
+    \ closely together."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 263
+storageId: 05a1bef6-c00a-46ee-be92-e9d675d807fd
+worldId: '@shared:n'

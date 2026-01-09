@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810649
+  date: 2026-01-07T18:30:49.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:49.529+00:00
+createdBy: editor
+enabled: true
+name: cobblestone2.png
+path: textures/block/ground/cobblestone2.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#766963"
+  description: "The image shows a blurred texture of cobblestones, featuring irregular,\
+    \ rounded shapes in varying shades of brown. The blurring suggests the texture\
+    \ is intended to be used at a distance or as a subtle background."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 254
+storageId: c32c69c9-5a16-48eb-a9c8-6f72dfa83404
+worldId: '@shared:n'

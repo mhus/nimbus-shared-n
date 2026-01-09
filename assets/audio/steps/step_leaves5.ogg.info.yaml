@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767816442
+  date: 2026-01-07T20:07:22.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T20:07:22.780+00:00
+createdBy: editor
+enabled: true
+name: step_leaves5.ogg
+path: audio/steps/step_leaves5.ogg
+publicData:
+  category: audio
+  extension: .ogg
+  mimeType: audio/ogg
+size: 9170
+storageId: b12f0e55-3c52-4c2c-b308-08ebec7fc352
+worldId: '@shared:n'

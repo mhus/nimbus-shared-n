@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1767810645
+  date: 2026-01-07T18:30:45.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-07T18:30:45.631+00:00
+createdBy: editor
+enabled: true
+name: cobblestone1.png
+path: textures/block/ground/cobblestone1.png
+publicData:
+  author: "Athemis Alexander Minges, lzlrd Diab Neiroukh, auctumnus autumn"
+  category: textures
+  color: "#73655f"
+  description: "The image shows a repeating texture of cobblestones, featuring irregularly\
+    \ shaped stones in varying shades of brown and gray. The cobblestones have a slightly\
+    \ blurred appearance, suggesting a focus on texture rather than sharp detail."
+  extension: .png
+  height: 16
+  license: CC-BY-SA-4.0 license
+  licenseFixed: true
+  mimeType: image/png
+  source: https://github.com/Athemis/PixelPerfectionCE
+  width: 16
+size: 252
+storageId: bce7a12f-2a33-4f69-8389-66ace785d281
+worldId: '@shared:n'
