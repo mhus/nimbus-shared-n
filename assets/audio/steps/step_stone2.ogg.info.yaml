@@ -1,9 +1,9 @@
 _class: de.mhus.nimbus.world.shared.world.SAsset
 _id:
-  timestamp: 1767816357
-  date: 2026-01-07T20:05:57.000+00:00
+  timestamp: 1768560906
+  date: 2026-01-16T10:55:06.000+00:00
 _schema: 1.0.0
-compressed: false
+compressed: true
 createdAt: 2026-01-07T20:05:57.531+00:00
 createdBy: editor
 enabled: true
@@ -14,5 +14,5 @@ publicData:
   extension: .ogg
   mimeType: audio/ogg
 size: 8406
-storageId: fdb77d39-cd9f-4684-82f3-824088cf9d8e
+storageId: c0868222-be90-4589-ac21-30f63c21cebc
 worldId: '@shared:n'

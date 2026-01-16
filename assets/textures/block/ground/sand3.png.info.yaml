@@ -1,7 +1,7 @@
 _class: de.mhus.nimbus.world.shared.world.SAsset
 _id:
-  timestamp: 1767810653
-  date: 2026-01-07T18:30:53.000+00:00
+  timestamp: 1768560906
+  date: 2026-01-16T10:55:06.000+00:00
 _schema: 1.0.0
 compressed: false
 createdAt: 2026-01-07T18:30:53.160+00:00
@@ -20,5 +20,5 @@ publicData:
   mimeType: image/png
   width: 16
 size: 250
-storageId: 0145c5e9-9427-4d55-958a-39fc961bd034
+storageId: 623d5f53-3eee-44ec-8aad-1fd827aa37fb
 worldId: '@shared:n'

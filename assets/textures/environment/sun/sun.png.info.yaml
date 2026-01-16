@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768585299
+  date: 2026-01-16T17:41:39.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-16T17:41:39.189+00:00
+createdBy: editor
+enabled: true
+name: sun.png
+path: textures/environment/sun/sun.png
+publicData:
+  category: textures
+  extension: .png
+  mimeType: image/png
+size: 1818827
+storageId: 3a030dc6-384a-4e05-a0c0-2da682bbc55f
+worldId: '@shared:n'

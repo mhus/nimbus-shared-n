@@ -1,7 +1,7 @@
 _class: de.mhus.nimbus.world.shared.world.SAsset
 _id:
-  timestamp: 1767810649
-  date: 2026-01-07T18:30:49.000+00:00
+  timestamp: 1768560906
+  date: 2026-01-16T10:55:06.000+00:00
 _schema: 1.0.0
 compressed: false
 createdAt: 2026-01-07T18:30:49.529+00:00
@@ -24,5 +24,5 @@ publicData:
   source: https://github.com/Athemis/PixelPerfectionCE
   width: 16
 size: 254
-storageId: c32c69c9-5a16-48eb-a9c8-6f72dfa83404
+storageId: ed4f5146-9529-4bf0-b7b4-a0ce9937623b
 worldId: '@shared:n'
