@@ -3,12 +3,12 @@ _id:
   timestamp: 1767821521
   date: 2026-01-07T21:32:01.000+00:00
 _schema: 1.0.0
-blockId: w
+blockId: o
 createdAt: 2026-01-07T21:32:01.853+00:00
 enabled: true
 publicData:
-  _id: w
-  description: 'Water - not Ocean '
+  _id: o
+  description: 'Ocean'
   initialStatus: 0
   modifiers:
     "0":
@@ -16,8 +16,8 @@ publicData:
         rotation:
           x: 0.0
           "y": 0.0
-        shape: 22
-  title: Water
+        shape: 16
+  title: Ocean
   type: WATER
 updatedAt: 2026-01-07T21:32:01.853+00:00
 worldId: '@shared:n'

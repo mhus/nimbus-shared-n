@@ -7,7 +7,7 @@ blockId: 2
 createdAt: 2026-01-07T19:31:51.048+00:00
 enabled: true
 publicData:
-  _id: n:2
+  _id: 2
   description: Invisible Block
   initialStatus: 0
   modifiers:

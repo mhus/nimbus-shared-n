@@ -7,7 +7,7 @@ blockId: sn
 createdAt: 2026-01-07T21:28:06.344+00:00
 enabled: true
 publicData:
-  _id: n:sn
+  _id: sn
   description: ""
   initialStatus: 0
   modifiers:
