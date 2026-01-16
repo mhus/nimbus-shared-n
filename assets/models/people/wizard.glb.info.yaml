@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768585515
+  date: 2026-01-16T17:45:15.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-16T17:45:15.192+00:00
+createdBy: editor
+enabled: true
+name: wizard.glb
+path: models/people/wizard.glb
+publicData:
+  category: models
+  extension: .glb
+  mimeType: model/gltf-binary
+size: 1165928
+storageId: 553627da-a468-41c3-ab2a-9000ba433243
+worldId: '@shared:n'

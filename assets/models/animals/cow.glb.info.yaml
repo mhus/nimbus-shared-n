@@ -1,0 +1,18 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1768585534
+  date: 2026-01-16T17:45:34.000+00:00
+_schema: 1.0.0
+compressed: false
+createdAt: 2026-01-16T17:45:34.091+00:00
+createdBy: editor
+enabled: true
+name: cow.glb
+path: models/animals/cow.glb
+publicData:
+  category: models
+  extension: .glb
+  mimeType: model/gltf-binary
+size: 331280
+storageId: 91fc6ec7-1d0b-407f-a5c7-aac5072139fc
+worldId: '@shared:n'
