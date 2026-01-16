@@ -1,0 +1,70 @@
+_class: de.mhus.nimbus.world.shared.world.WEntityModel
+_id:
+  timestamp: 1764714286
+  date: 2025-12-02T22:24:46.000+00:00
+_schema: 1.0.0
+createdAt: 2025-12-02T22:24:46.546+00:00
+enabled: true
+modelId: wizard
+publicData:
+  _id: wizard
+  dimensions: {}
+  maxPitch: 0
+  modelModifierMapping:
+    color: diffuseColor
+    scale: scaling
+  modelPath: n:models/people/wizard.glb
+  physicsProperties:
+    drag: 0.02
+    friction: 0.8
+    mass: 70
+    restitution: 0.1
+  poseMapping:
+    CROUCH:
+      animationName: CharacterArmature|Walk
+      loop: true
+      speedMultiplier: 1
+    DEATH:
+      animationName: CharacterArmature|Death
+      loop: false
+      speedMultiplier: 1
+    FALL:
+      animationName: CharacterArmature|Idle
+      loop: false
+      speedMultiplier: 1
+    FLY:
+      animationName: CharacterArmature|Idle_Weapon
+      loop: false
+      speedMultiplier: 1
+    IDLE:
+      animationName: CharacterArmature|Idle
+      loop: true
+      speedMultiplier: 1
+    JUMP:
+      animationName: CharacterArmature|Idle_Weapon
+      loop: false
+      speedMultiplier: 1
+    RUN:
+      animationName: CharacterArmature|Run
+      loop: true
+      speedMultiplier: 1.5
+    WALK:
+      animationName: CharacterArmature|Walk
+      loop: true
+      speedMultiplier: 1
+  poseType: animation
+  positionOffset:
+    x: 0
+    "y": 0.4
+    z: 0
+  rotationOffset:
+    x: 0
+    "y": 0
+    z: 0
+  scale:
+    x: 0.4
+    "y": 0.4
+    z: 0.4
+  type: animal
+updatedAt: 2025-12-02T22:24:46.549+00:00
+worldId: '@shared:n'
