@@ -15,17 +15,17 @@ publicData:
       audio:
         - enabled: true
           loop: false
-          path: audio/steps/step_grass1.ogg
+          path: n:audio/steps/step_grass1.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_grass2.ogg
+          path: n:audio/steps/step_grass2.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_grass3.ogg
+          path: n:audio/steps/step_grass3.ogg
           type: steps
           volume: 1.0
       physics:
@@ -38,7 +38,7 @@ publicData:
         shape: 1
         textures:
           "0":
-            path: textures/block/ground/grass_top.png
+            path: n:textures/block/ground/grass_top.png
   title: Grass
   type: GROUND
 updatedAt: 2026-01-07T20:13:32.488+00:00

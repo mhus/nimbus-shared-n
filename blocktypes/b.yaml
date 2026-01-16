@@ -15,7 +15,7 @@ publicData:
       audio:
         - enabled: true
           loop: false
-          path: audio/steps/step_stone1.ogg
+          path: n:audio/steps/step_stone1.ogg
           type: steps
           volume: 1.0
       physics:
@@ -28,7 +28,7 @@ publicData:
         shape: 1
         textures:
           "0":
-            path: textures/block/ground/bedrock.png
+            path: n:textures/block/ground/bedrock.png
   title: Bedrock
   type: GROUND
 updatedAt: 2026-01-07T21:35:04.045+00:00

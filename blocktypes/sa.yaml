@@ -15,17 +15,17 @@ publicData:
       audio:
         - enabled: true
           loop: false
-          path: audio/steps/step_sand1.ogg
+          path: n:audio/steps/step_sand1.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_sand2.ogg
+          path: n:audio/steps/step_sand2.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_sand3.ogg
+          path: n:audio/steps/step_sand3.ogg
           type: steps
           volume: 1.0
       physics:
@@ -37,7 +37,7 @@ publicData:
           "y": 0.0
         shape: 1
         textures:
-          "0": textures/block/ground/sand3.png
+          "0": n:textures/block/ground/sand3.png
   title: Sand
   type: GROUND
 updatedAt: 2026-01-07T21:29:55.129+00:00

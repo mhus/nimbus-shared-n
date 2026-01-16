@@ -15,17 +15,17 @@ publicData:
       audio:
         - enabled: true
           loop: false
-          path: audio/steps/step_snow1.ogg
+          path: n:audio/steps/step_snow1.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_snow3.ogg
+          path: n:audio/steps/step_snow3.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_snow4.ogg
+          path: n:audio/steps/step_snow4.ogg
           type: steps
           volume: 1.0
       physics:
@@ -38,7 +38,7 @@ publicData:
         shape: 1
         textures:
           "0":
-            path: textures/block/ground/snow.png
+            path: n:textures/block/ground/snow.png
   title: Snow
   type: GROUND
 updatedAt: 2026-01-07T21:30:44.420+00:00

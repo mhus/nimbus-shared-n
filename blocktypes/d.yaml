@@ -15,7 +15,7 @@ publicData:
       audio:
         - enabled: true
           loop: false
-          path: audio/steps/step_grass1.ogg
+          path: n:audio/steps/step_grass1.ogg
           type: steps
           volume: 1.0
       physics:
@@ -28,7 +28,7 @@ publicData:
         shape: 1
         textures:
           "0":
-            path: textures/block/ground/dirt.png
+            path: n:textures/block/ground/dirt.png
   title: Dirt
   type: GROUND
 updatedAt: 2026-01-07T21:17:12.578+00:00

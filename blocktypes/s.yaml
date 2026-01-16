@@ -15,17 +15,17 @@ publicData:
       audio:
         - enabled: true
           loop: false
-          path: audio/steps/step_stone1.ogg
+          path: n:audio/steps/step_stone1.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_stone2.ogg
+          path: n:audio/steps/step_stone2.ogg
           type: steps
           volume: 1.0
         - enabled: true
           loop: false
-          path: audio/steps/step_stone3.ogg
+          path: n:audio/steps/step_stone3.ogg
           type: steps
           volume: 1.0
       physics:
@@ -38,7 +38,7 @@ publicData:
         shape: 1
         textures:
           "0":
-            path: textures/block/ground/stone.png
+            path: n:textures/block/ground/stone.png
   title: Stone
   type: GROUND
 updatedAt: 2026-01-07T21:30:14.482+00:00
