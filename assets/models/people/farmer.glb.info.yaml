@@ -3,7 +3,7 @@ _id:
   timestamp: 1768585511
   date: 2026-01-16T17:45:11.000+00:00
 _schema: 1.0.0
-compressed: false
+compressed: true
 createdAt: 2026-01-16T17:45:11.917+00:00
 createdBy: editor
 enabled: true
@@ -14,5 +14,5 @@ publicData:
   extension: .glb
   mimeType: model/gltf-binary
 size: 1370524
-storageId: 07d9ecaa-2af3-422e-bde7-7314624c25b6
+storageId: 7a2b2da2-1a5c-47e3-865d-c36b37d003ae
 worldId: '@shared:n'
