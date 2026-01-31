@@ -17,7 +17,13 @@ publicData:
           x: 0.0
           "y": 0.0
         shape: 22
+        textures:
+          "0":
+            backFaceCulling: false
+            opacity: 0.5
+            path: n:textures/block/water/water1.jpg
+            transparencyMode: 2
   title: Water
   type: WATER
-updatedAt: 2026-01-07T21:32:01.853+00:00
+updatedAt: 2026-01-31T22:28:40.311+00:00
 worldId: '@shared:n'

@@ -1,0 +1,28 @@
+_class: de.mhus.nimbus.world.shared.world.WBlockType
+_id:
+  timestamp: 1769082297
+  date: 2026-01-22T11:44:57.000+00:00
+_schema: 1.0.0
+blockId: str2
+createdAt: 2026-01-22T11:44:57.271+00:00
+enabled: true
+publicData:
+  _id: str2
+  description: ""
+  initialStatus: 0
+  modifiers:
+    "0":
+      physics:
+        autoClimbable: true
+        solid: true
+      visibility:
+        rotation:
+          x: 0.0
+          "y": 0.0
+        shape: 1
+        textures:
+          "0": n:textures/block/ground/cobblestone2.png
+  title: Street 2
+  type: GROUND
+updatedAt: 2026-01-22T11:44:57.271+00:00
+worldId: '@shared:n'

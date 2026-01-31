@@ -1,0 +1,22 @@
+_class: de.mhus.nimbus.world.shared.world.SAsset
+_id:
+  timestamp: 1769898479
+  date: 2026-01-31T22:27:59.000+00:00
+_schema: 1.0.0
+compressed: true
+createdAt: 2026-01-31T22:27:59.812+00:00
+createdBy: editor
+enabled: true
+name: water1.jpg
+path: textures/block/water/water1.jpg
+publicData:
+  category: textures
+  description: "This blurred, gradient texture transitions from a deep blue at the\
+    \ bottom and left to a vibrant cyan and teal at the top and right, strongly suggesting\
+    \ a stylized water surface or background element."
+  extension: .jpg
+  mimeType: image/jpeg
+  properties: {}
+size: 4488
+storageId: a90af36e-3dbc-4862-9ba0-a15e8cc0eb72
+worldId: '@shared:n'
